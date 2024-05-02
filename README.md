@@ -4,4 +4,4 @@ To initiate the chatbot run command:
 1. npm i
 2. npm run dev
 
-Access Live Version: https://bison-mu.vercel.app/
+Access Live Version: https://nsut-uni.vercel.app/
