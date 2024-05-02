@@ -205,7 +205,7 @@ export default function Home() {
           <div className={styles.bottomchatcontainer}>
             <input
               type="text"
-              placeholder="Message Bison Connect......."
+              placeholder="Message NSUT Connect......."
               value={input}
               onChange={(e) => {
                 setInput(e.target.value)
